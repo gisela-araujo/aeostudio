@@ -7356,12 +7356,12 @@ h1, h2, h3, h4, h5,
     font-size: 24px; }
     #colorlib-aside #colorlib-logo span.img {
       display: block;
-      width: 160px;
-      height: 160px;
+      width: 220px;
+      height: 220px;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
-      border-radius: 50%;
+      border-radius: 0;
       margin: 0 auto;
       margin-bottom: 10px; }
     @media (max-width: 991.98px) {
